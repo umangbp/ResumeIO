@@ -61,7 +61,7 @@ export default function Home() {
           <h2>
             Learn <span>-&gt;</span>
           </h2>
-          <p>learn about github demos
+          <p>learn about github demosdfgdfgf
         </a>
 
         <a
