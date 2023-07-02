@@ -1,5 +1,5 @@
 export const BodyComponent = () => {
     return (
-        <div>Body</div>
+        <div>Body bug fix</div>
     )
 }
