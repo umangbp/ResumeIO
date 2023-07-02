@@ -3,12 +3,12 @@ import styles from './page.module.css'
 
 export default function Home() {
   return (
-    <Component1></Component1>
+    <TitleComponent></TitleComponent>
   )
 }
 
 
-const Component1 = () => {
+const TitleComponent = () => {
   return (
     <h1>Component 1</h1>
   )
