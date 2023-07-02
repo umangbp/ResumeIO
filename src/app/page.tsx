@@ -93,3 +93,9 @@ export default function Home() {
     </main>
   )
 }
+
+const TitleComponentNew = () => {
+  return (
+    <h2>Title</h2>
+  )
+}
